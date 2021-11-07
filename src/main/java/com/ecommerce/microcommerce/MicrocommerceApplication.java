@@ -10,6 +10,7 @@ public class MicrocommerceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MicrocommerceApplication.class, args);
 		System.out.print("Je chante");
+		System.out.print("Je chante2");
 	}
 
 
